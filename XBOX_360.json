@@ -2897,57 +2897,5 @@
         "Size": "7.30 GB",
         "DownloadLink": "https://archive.org/download/CentralArquivista-XBOX360-part1/Assassins Creed 2 - Special Edition (JP).iso",
         "CoverArtLink": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
-    },
-    {
-        "GameID": "XBX-8C3C5FBD",
-        "FileName": "Assassins Creed 3 - Disc-1",
-        "Extension": "ISO",
-        "Platform": "Microsoft Xbox 360",
-        "Genre": "General",
-        "Rating": "8.9/10",
-        "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
-        "Compatibility": "Use Xenia emulator. Requires a powerful PC with a high-end GPU supporting Vulkan or DirectX 12. Compatibility varies by title.",
-        "Size": "8.14 GB",
-        "DownloadLink": "https://archive.org/download/CentralArquivista-XBOX360-part1/Assassins Creed 3 (EU) (Rev-1) - Disc-1.iso",
-        "CoverArtLink": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
-    },
-    {
-        "GameID": "XBX-E16A9D5F",
-        "FileName": "Assassins Creed 3 - Disc-2",
-        "Extension": "ISO",
-        "Platform": "Microsoft Xbox 360",
-        "Genre": "General",
-        "Rating": "7.3/10",
-        "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
-        "Compatibility": "Use Xenia emulator. Requires a powerful PC with a high-end GPU supporting Vulkan or DirectX 12. Compatibility varies by title.",
-        "Size": "8.14 GB",
-        "DownloadLink": "https://archive.org/download/CentralArquivista-XBOX360-part1/Assassins Creed 3 (EU) (Rev-1) - Disc-2.iso",
-        "CoverArtLink": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
-    },
-    {
-        "GameID": "XBX-3F1345B6",
-        "FileName": "Assassins Creed 3 - Disc-1",
-        "Extension": "ISO",
-        "Platform": "Microsoft Xbox 360",
-        "Genre": "General",
-        "Rating": "7.6/10",
-        "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
-        "Compatibility": "Use Xenia emulator. Requires a powerful PC with a high-end GPU supporting Vulkan or DirectX 12. Compatibility varies by title.",
-        "Size": "8.14 GB",
-        "DownloadLink": "https://archive.org/download/CentralArquivista-XBOX360-part1/Assassins Creed 3 (EU) - Disc-1.iso",
-        "CoverArtLink": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
-    },
-    {
-        "GameID": "XBX-B8F10D74",
-        "FileName": "Assassins Creed 3 - Disc-2",
-        "Extension": "ISO",
-        "Platform": "Microsoft Xbox 360",
-        "Genre": "General",
-        "Rating": "9.0/10",
-        "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
-        "Compatibility": "Use Xenia emulator. Requires a powerful PC with a high-end GPU supporting Vulkan or DirectX 12. Compatibility varies by title.",
-        "Size": "8.14 GB",
-        "DownloadLink": "https://archive.org/download/CentralArquivista-XBOX360-part1/Assassins Creed 3 (EU) - Disc-2.iso",
-        "CoverArtLink": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
     }
 ]
