@@ -1,7 +1,8 @@
 [
     {
         "GameID": "XBX-BBAB629A",
-        "FileName": "A-Train HX (EU).iso",
+        "FileName": "A-Train HX",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "A-Train HX is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -12,7 +13,8 @@
     },
     {
         "GameID": "XBX-C9C469E5",
-        "FileName": "Assassins Creed 3 (EU - AS) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -23,7 +25,8 @@
     },
     {
         "GameID": "XBX-40E92C2E",
-        "FileName": "Assassins Creed 3 (EU - AS) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -34,7 +37,8 @@
     },
     {
         "GameID": "XBX-8C3C5FBD",
-        "FileName": "Assassins Creed 3 (EU) (Rev-1) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -45,7 +49,8 @@
     },
     {
         "GameID": "XBX-E16A9D5F",
-        "FileName": "Assassins Creed 3 (EU) (Rev-1) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -56,7 +61,8 @@
     },
     {
         "GameID": "XBX-3F1345B6",
-        "FileName": "Assassins Creed 3 (EU) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -67,7 +73,8 @@
     },
     {
         "GameID": "XBX-B8F10D74",
-        "FileName": "Assassins Creed 3 (EU) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -78,7 +85,8 @@
     },
     {
         "GameID": "XBX-68B8B3ED",
-        "FileName": "Assassins Creed 3 (JP - KO) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -89,7 +97,8 @@
     },
     {
         "GameID": "XBX-9C3607A2",
-        "FileName": "Assassins Creed 3 (JP - KO) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -100,7 +109,8 @@
     },
     {
         "GameID": "XBX-8D8AEE66",
-        "FileName": "Assassins Creed 3 (US) (Multiplayer) (Rev-1) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -111,7 +121,8 @@
     },
     {
         "GameID": "XBX-ABEE3ACB",
-        "FileName": "Assassins Creed 3 (US) (Multiplayer) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -122,7 +133,8 @@
     },
     {
         "GameID": "XBX-C7A60455",
-        "FileName": "Assassins Creed 3 (US) (Single-player) (Rev-1) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -133,7 +145,8 @@
     },
     {
         "GameID": "XBX-8BBAC261",
-        "FileName": "Assassins Creed 3 (US) (Single-player) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -144,7 +157,8 @@
     },
     {
         "GameID": "XBX-2CA1D696",
-        "FileName": "Assassins Creed 4 - Black Flag (EU) (Multiplayer) - Disc-2.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -155,7 +169,8 @@
     },
     {
         "GameID": "XBX-50D05FEC",
-        "FileName": "Assassins Creed 4 - Black Flag (EU) - Disc-1.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -166,7 +181,8 @@
     },
     {
         "GameID": "XBX-BB4665E8",
-        "FileName": "Assassins Creed 4 - Black Flag (JP - KO) (Multiplayer) - Disc-2.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -177,7 +193,8 @@
     },
     {
         "GameID": "XBX-AA4E3908",
-        "FileName": "Assassins Creed 4 - Black Flag (JP - KO) - Disc-1.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -188,7 +205,8 @@
     },
     {
         "GameID": "XBX-16A0A83C",
-        "FileName": "Assassins Creed 4 - Black Flag (UK - AU) - Disc-1.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -199,7 +217,8 @@
     },
     {
         "GameID": "XBX-B1EB59B8",
-        "FileName": "Assassins Creed 4 - Black Flag (UK - AU) - Disc-2.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -210,7 +229,8 @@
     },
     {
         "GameID": "XBX-C5B00346",
-        "FileName": "Assassins Creed 4 - Black Flag (US - EU) - Disc-1.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -221,7 +241,8 @@
     },
     {
         "GameID": "XBX-B527C070",
-        "FileName": "Assassins Creed 4 - Black Flag (US - EU) - Disc-2.iso",
+        "FileName": "Assassins Creed 4 - Black Flag - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 4 - Black Flag is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -232,7 +253,8 @@
     },
     {
         "GameID": "XBX-7D8FAA23",
-        "FileName": "Asterix at the Olympic Games (CA).iso",
+        "FileName": "Asterix at the Olympic Games",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Asterix at the Olympic Games is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -243,7 +265,8 @@
     },
     {
         "GameID": "XBX-392E8FE4",
-        "FileName": "Asuras Wrath (WR).iso",
+        "FileName": "Asuras Wrath",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Asuras Wrath is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -254,7 +277,8 @@
     },
     {
         "GameID": "XBX-D165DBD6",
-        "FileName": "Atsumare! Pinata (JP).iso",
+        "FileName": "Atsumare! Pinata",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Atsumare! Pinata is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -265,7 +289,8 @@
     },
     {
         "GameID": "XBX-2310131E",
-        "FileName": "Attack of the Movies 3-D (US).iso",
+        "FileName": "Attack of the Movies 3-D",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Attack of the Movies 3-D is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -276,7 +301,8 @@
     },
     {
         "GameID": "XBX-22CA1A75",
-        "FileName": "Autobahn Polizei (US).iso",
+        "FileName": "Autobahn Polizei",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Autobahn Polizei is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -287,7 +313,8 @@
     },
     {
         "GameID": "XBX-71AAA9B8",
-        "FileName": "Back to the Future - The Game - 30th Anniversary Edition (US).iso",
+        "FileName": "Back to the Future - The Game - 30th Anniversary Edition",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Back to the Future - The Game - 30th Anniversary Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -298,7 +325,8 @@
     },
     {
         "GameID": "XBX-14399962",
-        "FileName": "Backbreaker (US - EU).iso",
+        "FileName": "Backbreaker",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Backbreaker is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -309,7 +337,8 @@
     },
     {
         "GameID": "XBX-BD49B2E6",
-        "FileName": "Backyard Sports - Rookie Rush (US).iso",
+        "FileName": "Backyard Sports - Rookie Rush",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "Sports",
         "Description": "Backyard Sports - Rookie Rush is an engaging Sports game released for the Microsoft Xbox 360. This title offers a unique experience within the sports genre, featuring the signature mechanics and art style that fans of the series and platform enjoy.",
@@ -320,7 +349,8 @@
     },
     {
         "GameID": "XBX-40F9A733",
-        "FileName": "Backyard Sports - Sandlot Sluggers (US).iso",
+        "FileName": "Backyard Sports - Sandlot Sluggers",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "Sports",
         "Description": "Backyard Sports - Sandlot Sluggers is an engaging Sports game released for the Microsoft Xbox 360. This title offers a unique experience within the sports genre, featuring the signature mechanics and art style that fans of the series and platform enjoy.",
@@ -331,7 +361,8 @@
     },
     {
         "GameID": "XBX-EECB5FCD",
-        "FileName": "Baja - Edge of Control (EU).iso",
+        "FileName": "Baja - Edge of Control",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Baja - Edge of Control is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -342,7 +373,8 @@
     },
     {
         "GameID": "XBX-D7288745",
-        "FileName": "Baja - Edge of Control (US).iso",
+        "FileName": "Baja - Edge of Control",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Baja - Edge of Control is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -353,7 +385,8 @@
     },
     {
         "GameID": "XBX-1BCD22F3",
-        "FileName": "Bakugan - Battle Brawlers (US).iso",
+        "FileName": "Bakugan - Battle Brawlers",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bakugan - Battle Brawlers is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -364,7 +397,8 @@
     },
     {
         "GameID": "XBX-14A36D82",
-        "FileName": "Bakugan - Defenders of the Core (US).iso",
+        "FileName": "Bakugan - Defenders of the Core",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bakugan - Defenders of the Core is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -375,7 +409,8 @@
     },
     {
         "GameID": "XBX-FE3B2436",
-        "FileName": "Band Hero (US - EU).iso",
+        "FileName": "Band Hero",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Band Hero is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -386,7 +421,8 @@
     },
     {
         "GameID": "XBX-130A2EA2",
-        "FileName": "BandFuse - Rock Legends (US).iso",
+        "FileName": "BandFuse - Rock Legends",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "BandFuse - Rock Legends is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -397,7 +433,8 @@
     },
     {
         "GameID": "XBX-576195F8",
-        "FileName": "Banjo-Kazooie - Nuts and Bolts (EU).iso",
+        "FileName": "Banjo-Kazooie - Nuts and Bolts",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Banjo-Kazooie - Nuts and Bolts is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -408,7 +445,8 @@
     },
     {
         "GameID": "XBX-57F27848",
-        "FileName": "Banjo-Kazooie - Nuts and Bolts (JP).iso",
+        "FileName": "Banjo-Kazooie - Nuts and Bolts",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Banjo-Kazooie - Nuts and Bolts is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -419,7 +457,8 @@
     },
     {
         "GameID": "XBX-B7D42830",
-        "FileName": "Banjo-Kazooie - Nuts and Bolts (US).iso",
+        "FileName": "Banjo-Kazooie - Nuts and Bolts",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Banjo-Kazooie - Nuts and Bolts is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -430,7 +469,8 @@
     },
     {
         "GameID": "XBX-647E2D52",
-        "FileName": "Barbie and Her Sisters - Puppy Rescue (US).iso",
+        "FileName": "Barbie and Her Sisters - Puppy Rescue",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Barbie and Her Sisters - Puppy Rescue is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -441,7 +481,8 @@
     },
     {
         "GameID": "XBX-7349D325",
-        "FileName": "Bass Pro Shops - The Hunt (US).iso",
+        "FileName": "Bass Pro Shops - The Hunt",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bass Pro Shops - The Hunt is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -452,7 +493,8 @@
     },
     {
         "GameID": "XBX-4FB64BB0",
-        "FileName": "Bass Pro Shops - The Strike (US).iso",
+        "FileName": "Bass Pro Shops - The Strike",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bass Pro Shops - The Strike is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -463,7 +505,8 @@
     },
     {
         "GameID": "XBX-A8383AF2",
-        "FileName": "Batman - Arkham Asylum (JP).iso",
+        "FileName": "Batman - Arkham Asylum",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Asylum is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -474,7 +517,8 @@
     },
     {
         "GameID": "XBX-84C1D2BC",
-        "FileName": "Batman - Arkham Asylum (US - EU).iso",
+        "FileName": "Batman - Arkham Asylum",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Asylum is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -485,7 +529,8 @@
     },
     {
         "GameID": "XBX-F8BBE8D8",
-        "FileName": "Batman - Arkham Asylum - Game of the Year Edition (EU).iso",
+        "FileName": "Batman - Arkham Asylum - Game of the Year Edition",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Asylum - Game of the Year Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -496,7 +541,8 @@
     },
     {
         "GameID": "XBX-7021C95D",
-        "FileName": "Batman - Arkham Asylum - Game of the Year Edition (US).iso",
+        "FileName": "Batman - Arkham Asylum - Game of the Year Edition",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Asylum - Game of the Year Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -507,7 +553,8 @@
     },
     {
         "GameID": "XBX-27AB72E2",
-        "FileName": "Batman - Arkham City (WR).iso",
+        "FileName": "Batman - Arkham City",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham City is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -518,7 +565,8 @@
     },
     {
         "GameID": "XBX-F982513F",
-        "FileName": "Batman - Arkham City - Game of the Year Edition (US - EU) - Disc-1.iso",
+        "FileName": "Batman - Arkham City - Game of the Year Edition - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham City - Game of the Year Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -529,7 +577,8 @@
     },
     {
         "GameID": "XBX-8DA8E3C9",
-        "FileName": "Batman - Arkham City - Game of the Year Edition (US - EU) - Disc-2.iso",
+        "FileName": "Batman - Arkham City - Game of the Year Edition - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham City - Game of the Year Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -540,7 +589,8 @@
     },
     {
         "GameID": "XBX-D9F8A7C1",
-        "FileName": "Batman - Arkham Origins (BR) - Disc-1.iso",
+        "FileName": "Batman - Arkham Origins - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Origins is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -551,7 +601,8 @@
     },
     {
         "GameID": "XBX-C258D136",
-        "FileName": "Batman - Arkham Origins (BR) - Disc-2.iso",
+        "FileName": "Batman - Arkham Origins - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Origins is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -562,7 +613,8 @@
     },
     {
         "GameID": "XBX-503ECA1F",
-        "FileName": "Batman - Arkham Origins (US - EU) - Disc-1.iso",
+        "FileName": "Batman - Arkham Origins - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Origins is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -573,7 +625,8 @@
     },
     {
         "GameID": "XBX-068E411D",
-        "FileName": "Batman - Arkham Origins (US - EU) - Disc-2.iso",
+        "FileName": "Batman - Arkham Origins - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - Arkham Origins is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -584,7 +637,8 @@
     },
     {
         "GameID": "XBX-C082FC9A",
-        "FileName": "Batman - The Telltale Series (US).iso",
+        "FileName": "Batman - The Telltale Series",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Batman - The Telltale Series is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -595,7 +649,8 @@
     },
     {
         "GameID": "XBX-1B9B44EE",
-        "FileName": "Battle Fantasia (EU).iso",
+        "FileName": "Battle Fantasia",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battle Fantasia is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -606,7 +661,8 @@
     },
     {
         "GameID": "XBX-25618D23",
-        "FileName": "Battle Fantasia (JP).iso",
+        "FileName": "Battle Fantasia",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battle Fantasia is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -617,7 +673,8 @@
     },
     {
         "GameID": "XBX-26B5BFD1",
-        "FileName": "Battle Fantasia (US).iso",
+        "FileName": "Battle Fantasia",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battle Fantasia is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -628,7 +685,8 @@
     },
     {
         "GameID": "XBX-C29CCFB4",
-        "FileName": "Battle vs. Chess (EU).iso",
+        "FileName": "Battle vs. Chess",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battle vs. Chess is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -639,7 +697,8 @@
     },
     {
         "GameID": "XBX-60BE7323",
-        "FileName": "Battlefield - Bad Company (EU) (Gold Edition).iso",
+        "FileName": "Battlefield - Bad Company",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -650,7 +709,8 @@
     },
     {
         "GameID": "XBX-D44D4875",
-        "FileName": "Battlefield - Bad Company (EU).iso",
+        "FileName": "Battlefield - Bad Company",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -661,7 +721,8 @@
     },
     {
         "GameID": "XBX-78A97A73",
-        "FileName": "Battlefield - Bad Company (JP).iso",
+        "FileName": "Battlefield - Bad Company",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -672,7 +733,8 @@
     },
     {
         "GameID": "XBX-4AEB2BDD",
-        "FileName": "Battlefield - Bad Company (US) (Gold Edition).iso",
+        "FileName": "Battlefield - Bad Company",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -683,7 +745,8 @@
     },
     {
         "GameID": "XBX-EA212AFE",
-        "FileName": "Battlefield - Bad Company (US).iso",
+        "FileName": "Battlefield - Bad Company",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -694,7 +757,8 @@
     },
     {
         "GameID": "XBX-3866C84A",
-        "FileName": "Battlefield - Bad Company 2 (EU) (Limited Edition).iso",
+        "FileName": "Battlefield - Bad Company 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -705,7 +769,8 @@
     },
     {
         "GameID": "XBX-1063AF03",
-        "FileName": "Battlefield - Bad Company 2 (EU).iso",
+        "FileName": "Battlefield - Bad Company 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -716,7 +781,8 @@
     },
     {
         "GameID": "XBX-95A16B2D",
-        "FileName": "Battlefield - Bad Company 2 (JP).iso",
+        "FileName": "Battlefield - Bad Company 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -727,7 +793,8 @@
     },
     {
         "GameID": "XBX-B50D0BC8",
-        "FileName": "Battlefield - Bad Company 2 (US - KR)).iso",
+        "FileName": "Battlefield - Bad Company 2)",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -738,7 +805,8 @@
     },
     {
         "GameID": "XBX-99B5B56E",
-        "FileName": "Battlefield - Bad Company 2 (US) (Limited Edition).iso",
+        "FileName": "Battlefield - Bad Company 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield - Bad Company 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -749,7 +817,8 @@
     },
     {
         "GameID": "XBX-91B53ECB",
-        "FileName": "Battlefield 2 - Modern Combat (DE).iso",
+        "FileName": "Battlefield 2 - Modern Combat",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 2 - Modern Combat is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -760,7 +829,8 @@
     },
     {
         "GameID": "XBX-9C8AA05B",
-        "FileName": "Battlefield 2 - Modern Combat (ES).iso",
+        "FileName": "Battlefield 2 - Modern Combat",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 2 - Modern Combat is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -771,7 +841,8 @@
     },
     {
         "GameID": "XBX-BD176D71",
-        "FileName": "Battlefield 2 - Modern Combat (EU).iso",
+        "FileName": "Battlefield 2 - Modern Combat",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 2 - Modern Combat is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -782,7 +853,8 @@
     },
     {
         "GameID": "XBX-C20F02E1",
-        "FileName": "Battlefield 2 - Modern Combat (IT).iso",
+        "FileName": "Battlefield 2 - Modern Combat",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 2 - Modern Combat is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -793,7 +865,8 @@
     },
     {
         "GameID": "XBX-BAD7C738",
-        "FileName": "Battlefield 2 - Modern Combat (JP).iso",
+        "FileName": "Battlefield 2 - Modern Combat",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 2 - Modern Combat is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -804,7 +877,8 @@
     },
     {
         "GameID": "XBX-546D8085",
-        "FileName": "Battlefield 2 - Modern Combat (US).iso",
+        "FileName": "Battlefield 2 - Modern Combat",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 2 - Modern Combat is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -815,7 +889,8 @@
     },
     {
         "GameID": "XBX-F7CE5DAF",
-        "FileName": "Battlefield 3 (JP - KR) (Multiplay-COOP) - Disc-1.iso",
+        "FileName": "Battlefield 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -826,7 +901,8 @@
     },
     {
         "GameID": "XBX-AEC5FF78",
-        "FileName": "Battlefield 3 (JP - KR) (Single-Play) - Disc-2.iso",
+        "FileName": "Battlefield 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -837,7 +913,8 @@
     },
     {
         "GameID": "XBX-1C1BBC8A",
-        "FileName": "Battlefield 3 (US - EU) (Multiplayer-Co-Op) - Disc-1.iso",
+        "FileName": "Battlefield 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -848,7 +925,8 @@
     },
     {
         "GameID": "XBX-1184876B",
-        "FileName": "Battlefield 3 (US - EU) (Single-Player Campaign) - Disc-2.iso",
+        "FileName": "Battlefield 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -859,7 +937,8 @@
     },
     {
         "GameID": "XBX-FE865045",
-        "FileName": "Battlefield 4 (JP) - Disc-1.iso",
+        "FileName": "Battlefield 4 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -870,7 +949,8 @@
     },
     {
         "GameID": "XBX-F46802E7",
-        "FileName": "Battlefield 4 (JP) - Disc-2.iso",
+        "FileName": "Battlefield 4 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -881,7 +961,8 @@
     },
     {
         "GameID": "XBX-7872881D",
-        "FileName": "Battlefield 4 (US - EU) - Disc-1.iso",
+        "FileName": "Battlefield 4 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -892,7 +973,8 @@
     },
     {
         "GameID": "XBX-D058E1F1",
-        "FileName": "Battlefield 4 (US - EU) - Disc-2.iso",
+        "FileName": "Battlefield 4 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -903,7 +985,8 @@
     },
     {
         "GameID": "XBX-F6055162",
-        "FileName": "Battlefield Hardline (US - EU) (Install-Multiplayer) - Disc-1.iso",
+        "FileName": "Battlefield Hardline - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield Hardline is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -914,7 +997,8 @@
     },
     {
         "GameID": "XBX-CAA4D8DF",
-        "FileName": "Battlefield Hardline (US - EU) (Single Player) - Disc-2.iso",
+        "FileName": "Battlefield Hardline - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlefield Hardline is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -925,7 +1009,8 @@
     },
     {
         "GameID": "XBX-144FC644",
-        "FileName": "Battleship (US).iso",
+        "FileName": "Battleship",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battleship is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -936,7 +1021,8 @@
     },
     {
         "GameID": "XBX-1B862AF1",
-        "FileName": "Battlestations - Midway (JP).iso",
+        "FileName": "Battlestations - Midway",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlestations - Midway is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -947,7 +1033,8 @@
     },
     {
         "GameID": "XBX-93F4670B",
-        "FileName": "Battlestations - Midway (US - EU).iso",
+        "FileName": "Battlestations - Midway",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlestations - Midway is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -958,7 +1045,8 @@
     },
     {
         "GameID": "XBX-8E9F73B0",
-        "FileName": "Battlestations - Pacific (US).iso",
+        "FileName": "Battlestations - Pacific",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Battlestations - Pacific is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -969,7 +1057,8 @@
     },
     {
         "GameID": "XBX-15417588",
-        "FileName": "Bayonetta (JP).iso",
+        "FileName": "Bayonetta",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bayonetta is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -980,7 +1069,8 @@
     },
     {
         "GameID": "XBX-5C0480CA",
-        "FileName": "Bayonetta (US - EU).iso",
+        "FileName": "Bayonetta",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bayonetta is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -991,7 +1081,8 @@
     },
     {
         "GameID": "XBX-138002D4",
-        "FileName": "Beautiful Katamari Damacy (JP - AS).iso",
+        "FileName": "Beautiful Katamari Damacy",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Beautiful Katamari Damacy is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1002,7 +1093,8 @@
     },
     {
         "GameID": "XBX-54D4F125",
-        "FileName": "Beijing 2008 (JP).iso",
+        "FileName": "Beijing 2008",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Beijing 2008 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1013,7 +1105,8 @@
     },
     {
         "GameID": "XBX-892C5A6B",
-        "FileName": "Beijing 2008 (US - EU).iso",
+        "FileName": "Beijing 2008",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Beijing 2008 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1024,7 +1117,8 @@
     },
     {
         "GameID": "XBX-173C0D2D",
-        "FileName": "Bejeweled 3 (EU).iso",
+        "FileName": "Bejeweled 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bejeweled 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1035,7 +1129,8 @@
     },
     {
         "GameID": "XBX-17C515FD",
-        "FileName": "Bejeweled 3 (US).iso",
+        "FileName": "Bejeweled 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Bejeweled 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1046,7 +1141,8 @@
     },
     {
         "GameID": "XBX-B744191F",
-        "FileName": "Ben 10 - Alien Force - Vilgax Attacks (US - EU).iso",
+        "FileName": "Ben 10 - Alien Force - Vilgax Attacks",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ben 10 - Alien Force - Vilgax Attacks is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1057,7 +1153,8 @@
     },
     {
         "GameID": "XBX-6028D5A3",
-        "FileName": "Ben 10 - Galactic Racing (US - EU).iso",
+        "FileName": "Ben 10 - Galactic Racing",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "Racing",
         "Description": "Ben 10 - Galactic Racing is an engaging Racing game released for the Microsoft Xbox 360. This title offers a unique experience within the racing genre, featuring the signature mechanics and art style that fans of the series and platform enjoy.",
@@ -1068,7 +1165,8 @@
     },
     {
         "GameID": "XBX-FBF34D8C",
-        "FileName": "Ben 10 - Omniverse (US).iso",
+        "FileName": "Ben 10 - Omniverse",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ben 10 - Omniverse is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1079,7 +1177,8 @@
     },
     {
         "GameID": "XBX-0E635BEA",
-        "FileName": "Ben 10 - Omniverse 2 (US - EU).iso",
+        "FileName": "Ben 10 - Omniverse 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ben 10 - Omniverse 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1090,7 +1189,8 @@
     },
     {
         "GameID": "XBX-E41B1620",
-        "FileName": "Ben 10 - Ultimate Alien - Cosmic Destruction (US).iso",
+        "FileName": "Ben 10 - Ultimate Alien - Cosmic Destruction",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ben 10 - Ultimate Alien - Cosmic Destruction is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1101,7 +1201,8 @@
     },
     {
         "GameID": "XBX-922CB2A6",
-        "FileName": "Beowulf - The Game (US - EU).iso",
+        "FileName": "Beowulf - The Game",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Beowulf - The Game is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1112,7 +1213,8 @@
     },
     {
         "GameID": "XBX-4BC5B50F",
-        "FileName": "007 - Blood Stone (US - EU).iso",
+        "FileName": "007 - Blood Stone",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Blood Stone is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1123,7 +1225,8 @@
     },
     {
         "GameID": "XBX-EE0E044B",
-        "FileName": "007 - Ein Quantum Trost (DE).iso",
+        "FileName": "007 - Ein Quantum Trost",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Ein Quantum Trost is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1134,7 +1237,8 @@
     },
     {
         "GameID": "XBX-0D915075",
-        "FileName": "007 - Legends (US).iso",
+        "FileName": "007 - Legends",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Legends is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1145,7 +1249,8 @@
     },
     {
         "GameID": "XBX-542BE437",
-        "FileName": "007 - Nagusame no Houshuu (JP).iso",
+        "FileName": "007 - Nagusame no Houshuu",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Nagusame no Houshuu is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1156,7 +1261,8 @@
     },
     {
         "GameID": "XBX-2B232063",
-        "FileName": "007 - Quantum of Solace (ES).iso",
+        "FileName": "007 - Quantum of Solace",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Quantum of Solace is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1167,7 +1273,8 @@
     },
     {
         "GameID": "XBX-E5870C16",
-        "FileName": "007 - Quantum of Solace (IT).iso",
+        "FileName": "007 - Quantum of Solace",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Quantum of Solace is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1178,7 +1285,8 @@
     },
     {
         "GameID": "XBX-BD84682B",
-        "FileName": "007 - Quantum of Solace (US - EU).iso",
+        "FileName": "007 - Quantum of Solace",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "007 - Quantum of Solace is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1189,7 +1297,8 @@
     },
     {
         "GameID": "XBX-414E66D0",
-        "FileName": "11eyes CrossOver (JP).iso",
+        "FileName": "11eyes CrossOver",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "11eyes CrossOver is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1200,7 +1309,8 @@
     },
     {
         "GameID": "XBX-55D93DED",
-        "FileName": "2010 FIFA World Cup - Minami Africa Taikai (JP).iso",
+        "FileName": "2010 FIFA World Cup - Minami Africa Taikai",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2010 FIFA World Cup - Minami Africa Taikai is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1211,7 +1321,8 @@
     },
     {
         "GameID": "XBX-3D51826A",
-        "FileName": "2010 FIFA World Cup - South Africa (EU) (En,Es,Nl).iso",
+        "FileName": "2010 FIFA World Cup - South Africa",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2010 FIFA World Cup - South Africa is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1222,7 +1333,8 @@
     },
     {
         "GameID": "XBX-96B7E4CE",
-        "FileName": "2010 FIFA World Cup - South Africa (EU) (Fr,De,It).iso",
+        "FileName": "2010 FIFA World Cup - South Africa",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2010 FIFA World Cup - South Africa is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1233,7 +1345,8 @@
     },
     {
         "GameID": "XBX-9EE53CB1",
-        "FileName": "2010 FIFA World Cup - South Africa (US - AS).iso",
+        "FileName": "2010 FIFA World Cup - South Africa",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2010 FIFA World Cup - South Africa is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1244,7 +1357,8 @@
     },
     {
         "GameID": "XBX-1D1C1665",
-        "FileName": "2014 FIFA World Cup - Brazil (EU) (En,De,It).iso",
+        "FileName": "2014 FIFA World Cup - Brazil",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2014 FIFA World Cup - Brazil is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1255,7 +1369,8 @@
     },
     {
         "GameID": "XBX-19921348",
-        "FileName": "2014 FIFA World Cup - Brazil (EU) (Fr,Es,Nl).iso",
+        "FileName": "2014 FIFA World Cup - Brazil",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2014 FIFA World Cup - Brazil is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1266,7 +1381,8 @@
     },
     {
         "GameID": "XBX-6D3F98B9",
-        "FileName": "2014 FIFA World Cup - Brazil (JP).iso",
+        "FileName": "2014 FIFA World Cup - Brazil",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2014 FIFA World Cup - Brazil is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1277,7 +1393,8 @@
     },
     {
         "GameID": "XBX-544CD5C9",
-        "FileName": "2014 FIFA World Cup - Brazil (US).iso",
+        "FileName": "2014 FIFA World Cup - Brazil",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "2014 FIFA World Cup - Brazil is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1288,7 +1405,8 @@
     },
     {
         "GameID": "XBX-C29DADA5",
-        "FileName": "50 Cent - Blood on the Sand (JP).iso",
+        "FileName": "50 Cent - Blood on the Sand",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "50 Cent - Blood on the Sand is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1299,7 +1417,8 @@
     },
     {
         "GameID": "XBX-28F33F9F",
-        "FileName": "50 Cent - Blood on the Sand (US - EU).iso",
+        "FileName": "50 Cent - Blood on the Sand",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "50 Cent - Blood on the Sand is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1310,7 +1429,8 @@
     },
     {
         "GameID": "XBX-CAC12B86",
-        "FileName": "A Ressha de Ikou HX (JP).iso",
+        "FileName": "A Ressha de Ikou HX",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "A Ressha de Ikou HX is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1321,7 +1441,8 @@
     },
     {
         "GameID": "XBX-FBCFFD72",
-        "FileName": "ABC Wipeout 3 (US).iso",
+        "FileName": "ABC Wipeout 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "ABC Wipeout 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1332,7 +1453,8 @@
     },
     {
         "GameID": "XBX-841BB954",
-        "FileName": "AC-DC Live - Rock Band (EU).iso",
+        "FileName": "AC-DC Live - Rock Band",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "AC-DC Live - Rock Band is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1343,7 +1465,8 @@
     },
     {
         "GameID": "XBX-AB288C3F",
-        "FileName": "AC-DC Live - Rock Band Track Pack (US).iso",
+        "FileName": "AC-DC Live - Rock Band Track Pack",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "AC-DC Live - Rock Band Track Pack is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1354,7 +1477,8 @@
     },
     {
         "GameID": "XBX-989B8401",
-        "FileName": "AFL Live (AU).iso",
+        "FileName": "AFL Live",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "AFL Live is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1365,7 +1489,8 @@
     },
     {
         "GameID": "XBX-C5EDFE17",
-        "FileName": "AFL Live 2 (AU).iso",
+        "FileName": "AFL Live 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "AFL Live 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1376,7 +1501,8 @@
     },
     {
         "GameID": "XBX-65AFB403",
-        "FileName": "Absolute - Blazing Infinity (JP).iso",
+        "FileName": "Absolute - Blazing Infinity",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Absolute - Blazing Infinity is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1387,7 +1513,8 @@
     },
     {
         "GameID": "XBX-79D6E887",
-        "FileName": "Ace Combat - Assault Horizon (EU).iso",
+        "FileName": "Ace Combat - Assault Horizon",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat - Assault Horizon is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1398,7 +1525,8 @@
     },
     {
         "GameID": "XBX-273F4F53",
-        "FileName": "Ace Combat - Assault Horizon (JP).iso",
+        "FileName": "Ace Combat - Assault Horizon",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat - Assault Horizon is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1409,7 +1537,8 @@
     },
     {
         "GameID": "XBX-3323076D",
-        "FileName": "Ace Combat - Assault Horizon (US).iso",
+        "FileName": "Ace Combat - Assault Horizon",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat - Assault Horizon is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1420,7 +1549,8 @@
     },
     {
         "GameID": "XBX-55805FCE",
-        "FileName": "Ace Combat 6 - Fires of Liberation (EU)(Rev-1).iso",
+        "FileName": "Ace Combat 6 - Fires of Liberation",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat 6 - Fires of Liberation is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1431,7 +1561,8 @@
     },
     {
         "GameID": "XBX-CBF2ABAA",
-        "FileName": "Ace Combat 6 - Fires of Liberation (EU).iso",
+        "FileName": "Ace Combat 6 - Fires of Liberation",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat 6 - Fires of Liberation is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1442,7 +1573,8 @@
     },
     {
         "GameID": "XBX-CAF6804F",
-        "FileName": "Ace Combat 6 - Fires of Liberation (US - JP).iso",
+        "FileName": "Ace Combat 6 - Fires of Liberation",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat 6 - Fires of Liberation is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1453,7 +1585,8 @@
     },
     {
         "GameID": "XBX-EA46F094",
-        "FileName": "Ace Combat 6 - Kaihou e no Senka (JP - AS).iso",
+        "FileName": "Ace Combat 6 - Kaihou e no Senka",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ace Combat 6 - Kaihou e no Senka is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1464,7 +1597,8 @@
     },
     {
         "GameID": "XBX-CC4E3A9C",
-        "FileName": "Adidas miCoach (EU) - Disc-1.iso",
+        "FileName": "Adidas miCoach - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Adidas miCoach is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1475,7 +1609,8 @@
     },
     {
         "GameID": "XBX-6F64D1B5",
-        "FileName": "Adidas miCoach (EU) - Disc-2.iso",
+        "FileName": "Adidas miCoach - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Adidas miCoach is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1486,7 +1621,8 @@
     },
     {
         "GameID": "XBX-3B94A3E5",
-        "FileName": "Adidas miCoach (US) - Disc-1.iso",
+        "FileName": "Adidas miCoach - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Adidas miCoach is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1497,7 +1633,8 @@
     },
     {
         "GameID": "XBX-34A054C0",
-        "FileName": "Adidas miCoach (US) - Disc-2.iso",
+        "FileName": "Adidas miCoach - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Adidas miCoach is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1508,7 +1645,8 @@
     },
     {
         "GameID": "XBX-E6DDA8C7",
-        "FileName": "Adrenalin Misfits (US).iso",
+        "FileName": "Adrenalin Misfits",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Adrenalin Misfits is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1519,7 +1657,8 @@
     },
     {
         "GameID": "XBX-C37ADBE2",
-        "FileName": "Adventure Time - Explore the Dungeon Because I Dont Know! (US - EU)).iso",
+        "FileName": "Adventure Time - Explore the Dungeon Because I Dont Know!)",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "Adventure",
         "Description": "Adventure Time - Explore the Dungeon Because I Dont Know! is an engaging Adventure game released for the Microsoft Xbox 360. This title offers a unique experience within the adventure genre, featuring the signature mechanics and art style that fans of the series and platform enjoy.",
@@ -1530,7 +1669,8 @@
     },
     {
         "GameID": "XBX-798E7A6A",
-        "FileName": "Adventure Time - Finn and Jake Investigations (US).iso",
+        "FileName": "Adventure Time - Finn and Jake Investigations",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "Adventure",
         "Description": "Adventure Time - Finn and Jake Investigations is an engaging Adventure game released for the Microsoft Xbox 360. This title offers a unique experience within the adventure genre, featuring the signature mechanics and art style that fans of the series and platform enjoy.",
@@ -1541,7 +1681,8 @@
     },
     {
         "GameID": "XBX-4D58C10E",
-        "FileName": "Adventure Time - The Secret of the Nameless Kingdom (US - AU).iso",
+        "FileName": "Adventure Time - The Secret of the Nameless Kingdom",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "Adventure",
         "Description": "Adventure Time - The Secret of the Nameless Kingdom is an engaging Adventure game released for the Microsoft Xbox 360. This title offers a unique experience within the adventure genre, featuring the signature mechanics and art style that fans of the series and platform enjoy.",
@@ -1552,7 +1693,8 @@
     },
     {
         "GameID": "XBX-27A3EACF",
-        "FileName": "Afro Samurai (EU).iso",
+        "FileName": "Afro Samurai",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Afro Samurai is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1563,7 +1705,8 @@
     },
     {
         "GameID": "XBX-8C1A1907",
-        "FileName": "Afro Samurai (US).iso",
+        "FileName": "Afro Samurai",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Afro Samurai is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1574,7 +1717,8 @@
     },
     {
         "GameID": "XBX-D059DB30",
-        "FileName": "Agarest Senki - Re-appearance (JP).iso",
+        "FileName": "Agarest Senki - Re-appearance",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Agarest Senki - Re-appearance is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1585,7 +1729,8 @@
     },
     {
         "GameID": "XBX-CEBC31C9",
-        "FileName": "Agarest Senki Zero - Dawn of War (JP).iso",
+        "FileName": "Agarest Senki Zero - Dawn of War",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Agarest Senki Zero - Dawn of War is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1596,7 +1741,8 @@
     },
     {
         "GameID": "XBX-C528920E",
-        "FileName": "Air Conflicts - Pacific Carriers (EU).iso",
+        "FileName": "Air Conflicts - Pacific Carriers",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Air Conflicts - Pacific Carriers is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1607,7 +1753,8 @@
     },
     {
         "GameID": "XBX-9CCC04C5",
-        "FileName": "Air Conflicts - Secret Wars (US).iso",
+        "FileName": "Air Conflicts - Secret Wars",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Air Conflicts - Secret Wars is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1618,7 +1765,8 @@
     },
     {
         "GameID": "XBX-973D55FF",
-        "FileName": "Air Conflicts - Vietnam (US).iso",
+        "FileName": "Air Conflicts - Vietnam",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Air Conflicts - Vietnam is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1629,7 +1777,8 @@
     },
     {
         "GameID": "XBX-84A886D9",
-        "FileName": "Akai Katana (US).iso",
+        "FileName": "Akai Katana",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Akai Katana is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1640,7 +1789,8 @@
     },
     {
         "GameID": "XBX-C900E257",
-        "FileName": "Akai Katana Shin (JP).iso",
+        "FileName": "Akai Katana Shin",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Akai Katana Shin is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1651,7 +1801,8 @@
     },
     {
         "GameID": "XBX-1E62B536",
-        "FileName": "Akatsuki no Amaneka to Aoi Kyojin - Pashiate Bunmei Kenkyuukai Koubouki (JP).iso",
+        "FileName": "Akatsuki no Amaneka to Aoi Kyojin - Pashiate Bunmei Kenkyuukai Koubouki",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Akatsuki no Amaneka to Aoi Kyojin - Pashiate Bunmei Kenkyuukai Koubouki is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1662,7 +1813,8 @@
     },
     {
         "GameID": "XBX-BCBA5F77",
-        "FileName": "Alan Wake (US - EU) (Bonus Disc).iso",
+        "FileName": "Alan Wake",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alan Wake is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1673,7 +1825,8 @@
     },
     {
         "GameID": "XBX-4C517A6D",
-        "FileName": "Alan Wake (WR).iso",
+        "FileName": "Alan Wake",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alan Wake is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1684,7 +1837,8 @@
     },
     {
         "GameID": "XBX-144FE69C",
-        "FileName": "Alice - Madness Returns (US - EU).iso",
+        "FileName": "Alice - Madness Returns",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alice - Madness Returns is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1695,7 +1849,8 @@
     },
     {
         "GameID": "XBX-C8B0008C",
-        "FileName": "Alien - Isolation (US - EU) (Installation Disc) - Disc-1.iso",
+        "FileName": "Alien - Isolation - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alien - Isolation is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1706,7 +1861,8 @@
     },
     {
         "GameID": "XBX-101F44FA",
-        "FileName": "Alien - Isolation (US) - Disc-2.iso",
+        "FileName": "Alien - Isolation - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alien - Isolation is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1717,7 +1873,8 @@
     },
     {
         "GameID": "XBX-D25EB38E",
-        "FileName": "Alien Breed - Trilogy (EU).iso",
+        "FileName": "Alien Breed - Trilogy",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alien Breed - Trilogy is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1728,7 +1885,8 @@
     },
     {
         "GameID": "XBX-3B30C33D",
-        "FileName": "Alien vs Predator (US - EU).iso",
+        "FileName": "Alien vs Predator",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alien vs Predator is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1739,7 +1897,8 @@
     },
     {
         "GameID": "XBX-C7152E58",
-        "FileName": "Aliens - Colonial Marines (RU).iso",
+        "FileName": "Aliens - Colonial Marines",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Aliens - Colonial Marines is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1750,7 +1909,8 @@
     },
     {
         "GameID": "XBX-3D27DB79",
-        "FileName": "Aliens - Colonial Marines (US - EU).iso",
+        "FileName": "Aliens - Colonial Marines",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Aliens - Colonial Marines is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1761,7 +1921,8 @@
     },
     {
         "GameID": "XBX-AC4BC68D",
-        "FileName": "Alone in the Dark (US - EU).iso",
+        "FileName": "Alone in the Dark",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alone in the Dark is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1772,7 +1933,8 @@
     },
     {
         "GameID": "XBX-CA0628E5",
-        "FileName": "Alpha Protocol (US - EU).iso",
+        "FileName": "Alpha Protocol",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alpha Protocol is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1783,7 +1945,8 @@
     },
     {
         "GameID": "XBX-66DE55F7",
-        "FileName": "Alvin and the Chipmunks - Chipwrecked (US).iso",
+        "FileName": "Alvin and the Chipmunks - Chipwrecked",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Alvin and the Chipmunks - Chipwrecked is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1794,7 +1957,8 @@
     },
     {
         "GameID": "XBX-400892BA",
-        "FileName": "America Army - True Soldiers (US).iso",
+        "FileName": "America Army - True Soldiers",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "America Army - True Soldiers is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1805,7 +1969,8 @@
     },
     {
         "GameID": "XBX-AFE71EE2",
-        "FileName": "Amped 3 (EU).iso",
+        "FileName": "Amped 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Amped 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1816,7 +1981,8 @@
     },
     {
         "GameID": "XBX-B589B38A",
-        "FileName": "Amped 3 (US).iso",
+        "FileName": "Amped 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Amped 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1827,7 +1993,8 @@
     },
     {
         "GameID": "XBX-E6D1C274",
-        "FileName": "Anarchy Reigns and Max Anarchy (US - JP).iso",
+        "FileName": "Anarchy Reigns and Max Anarchy",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Anarchy Reigns and Max Anarchy is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1838,7 +2005,8 @@
     },
     {
         "GameID": "XBX-5D3E4193",
-        "FileName": "Angry Birds Star Wars (US).iso",
+        "FileName": "Angry Birds Star Wars",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Angry Birds Star Wars is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1849,7 +2017,8 @@
     },
     {
         "GameID": "XBX-B8C8DEFE",
-        "FileName": "Angry Birds Trilogy (US - EU).iso",
+        "FileName": "Angry Birds Trilogy",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Angry Birds Trilogy is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1860,7 +2029,8 @@
     },
     {
         "GameID": "XBX-A471ECC9",
-        "FileName": "Apache - Air Assault (US).iso",
+        "FileName": "Apache - Air Assault",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Apache - Air Assault is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1871,7 +2041,8 @@
     },
     {
         "GameID": "XBX-3C050B91",
-        "FileName": "Apocalypse - Desire Next (JP).iso",
+        "FileName": "Apocalypse - Desire Next",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Apocalypse - Desire Next is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1882,7 +2053,8 @@
     },
     {
         "GameID": "XBX-17FDD645",
-        "FileName": "Aquazone - Life Simulator (JP).iso",
+        "FileName": "Aquazone - Life Simulator",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Aquazone - Life Simulator is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1893,7 +2065,8 @@
     },
     {
         "GameID": "XBX-0FEE09FA",
-        "FileName": "Arcana Heart 3 (EU).iso",
+        "FileName": "Arcana Heart 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Arcana Heart 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1904,7 +2077,8 @@
     },
     {
         "GameID": "XBX-1CD43672",
-        "FileName": "Arcana Heart 3 (JP).iso",
+        "FileName": "Arcana Heart 3",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Arcana Heart 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1915,7 +2089,8 @@
     },
     {
         "GameID": "XBX-CBF27F2F",
-        "FileName": "Arcania - Gothic 4 (JP).iso",
+        "FileName": "Arcania - Gothic 4",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Arcania - Gothic 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1926,7 +2101,8 @@
     },
     {
         "GameID": "XBX-2E6D0757",
-        "FileName": "Arcania - Gothic 4 (US).iso",
+        "FileName": "Arcania - Gothic 4",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Arcania - Gothic 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1937,7 +2113,8 @@
     },
     {
         "GameID": "XBX-5C9A3E6A",
-        "FileName": "Arcania - The Complete Tale (EU).iso",
+        "FileName": "Arcania - The Complete Tale",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Arcania - The Complete Tale is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1948,7 +2125,8 @@
     },
     {
         "GameID": "XBX-4A3C69B1",
-        "FileName": "Are You Smarter Than a 5th Grader Game Time (US).iso",
+        "FileName": "Are You Smarter Than a 5th Grader Game Time",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Are You Smarter Than a 5th Grader Game Time is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1959,7 +2137,8 @@
     },
     {
         "GameID": "XBX-C31C317C",
-        "FileName": "Armored Core - For Answer (EU).iso",
+        "FileName": "Armored Core - For Answer",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core - For Answer is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1970,7 +2149,8 @@
     },
     {
         "GameID": "XBX-07A9E7EE",
-        "FileName": "Armored Core - For Answer (JP).iso",
+        "FileName": "Armored Core - For Answer",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core - For Answer is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1981,7 +2161,8 @@
     },
     {
         "GameID": "XBX-0E7466C0",
-        "FileName": "Armored Core - For Answer (US).iso",
+        "FileName": "Armored Core - For Answer",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core - For Answer is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -1992,7 +2173,8 @@
     },
     {
         "GameID": "XBX-33F92600",
-        "FileName": "Armored Core - Verdict Day (JP).iso",
+        "FileName": "Armored Core - Verdict Day",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core - Verdict Day is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2003,7 +2185,8 @@
     },
     {
         "GameID": "XBX-78C0CBF5",
-        "FileName": "Armored Core - Verdict Day (US).iso",
+        "FileName": "Armored Core - Verdict Day",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core - Verdict Day is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2014,7 +2197,8 @@
     },
     {
         "GameID": "XBX-A1E87D36",
-        "FileName": "Armored Core 4 (EU).iso",
+        "FileName": "Armored Core 4",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2025,7 +2209,8 @@
     },
     {
         "GameID": "XBX-2CB00547",
-        "FileName": "Armored Core 4 (JP - KO).iso",
+        "FileName": "Armored Core 4",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2036,7 +2221,8 @@
     },
     {
         "GameID": "XBX-D74CA8B9",
-        "FileName": "Armored Core 4 (US).iso",
+        "FileName": "Armored Core 4",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 4 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2047,7 +2233,8 @@
     },
     {
         "GameID": "XBX-9AEBBC48",
-        "FileName": "Armored Core 5 (AS).iso",
+        "FileName": "Armored Core 5",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 5 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2058,7 +2245,8 @@
     },
     {
         "GameID": "XBX-E80094D0",
-        "FileName": "Armored Core 5 (EU).iso",
+        "FileName": "Armored Core 5",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 5 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2069,7 +2257,8 @@
     },
     {
         "GameID": "XBX-B8677CC7",
-        "FileName": "Armored Core 5 (JP).iso",
+        "FileName": "Armored Core 5",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 5 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2080,7 +2269,8 @@
     },
     {
         "GameID": "XBX-AB837F73",
-        "FileName": "Armored Core 5 (US).iso",
+        "FileName": "Armored Core 5",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Armored Core 5 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2091,7 +2281,8 @@
     },
     {
         "GameID": "XBX-0482DC7C",
-        "FileName": "Army of Two (EU).iso",
+        "FileName": "Army of Two",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2102,7 +2293,8 @@
     },
     {
         "GameID": "XBX-5B78B99C",
-        "FileName": "Army of Two (JP).iso",
+        "FileName": "Army of Two",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2113,7 +2305,8 @@
     },
     {
         "GameID": "XBX-474EED95",
-        "FileName": "Army of Two (KO).iso",
+        "FileName": "Army of Two",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2124,7 +2317,8 @@
     },
     {
         "GameID": "XBX-45708A1D",
-        "FileName": "Army of Two (US).iso",
+        "FileName": "Army of Two",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2135,7 +2329,8 @@
     },
     {
         "GameID": "XBX-0A7CE5C8",
-        "FileName": "Army of Two - The 40th Day (JP).iso",
+        "FileName": "Army of Two - The 40th Day",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two - The 40th Day is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2146,7 +2341,8 @@
     },
     {
         "GameID": "XBX-F4CB88A2",
-        "FileName": "Army of Two - The 40th Day (US - AU).iso",
+        "FileName": "Army of Two - The 40th Day",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two - The 40th Day is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2157,7 +2353,8 @@
     },
     {
         "GameID": "XBX-13C94AEF",
-        "FileName": "Army of Two - The Devil Cartel (DE).iso",
+        "FileName": "Army of Two - The Devil Cartel",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two - The Devil Cartel is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2168,7 +2365,8 @@
     },
     {
         "GameID": "XBX-D8E10947",
-        "FileName": "Army of Two - The Devil Cartel (EU).iso",
+        "FileName": "Army of Two - The Devil Cartel",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two - The Devil Cartel is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2179,7 +2377,8 @@
     },
     {
         "GameID": "XBX-218CF5D1",
-        "FileName": "Army of Two - The Devil Cartel (US - EU).iso",
+        "FileName": "Army of Two - The Devil Cartel",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Army of Two - The Devil Cartel is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2190,7 +2389,8 @@
     },
     {
         "GameID": "XBX-25E86AB9",
-        "FileName": "Ashes Cricket 2009 (EU).iso",
+        "FileName": "Ashes Cricket 2009",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Ashes Cricket 2009 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2201,7 +2401,8 @@
     },
     {
         "GameID": "XBX-9F2FDDD4",
-        "FileName": "Assassins Creed (JP).iso",
+        "FileName": "Assassins Creed",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2212,7 +2413,8 @@
     },
     {
         "GameID": "XBX-CB5A7AF7",
-        "FileName": "Assassins Creed (PL).iso",
+        "FileName": "Assassins Creed",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2223,7 +2425,8 @@
     },
     {
         "GameID": "XBX-9F7CA4A7",
-        "FileName": "Assassins Creed (US - EU) (Rev-1).iso",
+        "FileName": "Assassins Creed",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2234,7 +2437,8 @@
     },
     {
         "GameID": "XBX-B7CEA4CE",
-        "FileName": "Assassins Creed (US - EU).iso",
+        "FileName": "Assassins Creed",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2245,7 +2449,8 @@
     },
     {
         "GameID": "XBX-5155A529",
-        "FileName": "Assassins Creed - Brotherhood (EU - AS).iso",
+        "FileName": "Assassins Creed - Brotherhood",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Brotherhood is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2256,7 +2461,8 @@
     },
     {
         "GameID": "XBX-21534047",
-        "FileName": "Assassins Creed - Brotherhood (EU).iso",
+        "FileName": "Assassins Creed - Brotherhood",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Brotherhood is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2267,7 +2473,8 @@
     },
     {
         "GameID": "XBX-88B5726D",
-        "FileName": "Assassins Creed - Brotherhood (JP).iso",
+        "FileName": "Assassins Creed - Brotherhood",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Brotherhood is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2278,7 +2485,8 @@
     },
     {
         "GameID": "XBX-F57BC43F",
-        "FileName": "Assassins Creed - Brotherhood (KO).iso",
+        "FileName": "Assassins Creed - Brotherhood",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Brotherhood is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2289,7 +2497,8 @@
     },
     {
         "GameID": "XBX-495A0307",
-        "FileName": "Assassins Creed - Brotherhood (US - EU).iso",
+        "FileName": "Assassins Creed - Brotherhood",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Brotherhood is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2300,7 +2509,8 @@
     },
     {
         "GameID": "XBX-7090E092",
-        "FileName": "Assassins Creed - Revelations (EU - AU).iso",
+        "FileName": "Assassins Creed - Revelations",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Revelations is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2311,7 +2521,8 @@
     },
     {
         "GameID": "XBX-F781C64C",
-        "FileName": "Assassins Creed - Revelations (JP).iso",
+        "FileName": "Assassins Creed - Revelations",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Revelations is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2322,7 +2533,8 @@
     },
     {
         "GameID": "XBX-9C442B1C",
-        "FileName": "Assassins Creed - Revelations (KO).iso",
+        "FileName": "Assassins Creed - Revelations",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Revelations is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2333,7 +2545,8 @@
     },
     {
         "GameID": "XBX-492F1CB6",
-        "FileName": "Assassins Creed - Revelations (US - EU).iso",
+        "FileName": "Assassins Creed - Revelations",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Revelations is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2344,7 +2557,8 @@
     },
     {
         "GameID": "XBX-9D819F02",
-        "FileName": "Assassins Creed - Rogue (EU).iso",
+        "FileName": "Assassins Creed - Rogue",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Rogue is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2355,7 +2569,8 @@
     },
     {
         "GameID": "XBX-E658B2AF",
-        "FileName": "Assassins Creed - Rogue (US - EU).iso",
+        "FileName": "Assassins Creed - Rogue",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed - Rogue is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2366,7 +2581,8 @@
     },
     {
         "GameID": "XBX-93087FFF",
-        "FileName": "Assassins Creed 2 (EU).iso",
+        "FileName": "Assassins Creed 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2377,7 +2593,8 @@
     },
     {
         "GameID": "XBX-F68936D3",
-        "FileName": "Assassins Creed 2 (JP).iso",
+        "FileName": "Assassins Creed 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2388,7 +2605,8 @@
     },
     {
         "GameID": "XBX-BFC33757",
-        "FileName": "Assassins Creed 2 (KO).iso",
+        "FileName": "Assassins Creed 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2399,7 +2617,8 @@
     },
     {
         "GameID": "XBX-8E1EA56B",
-        "FileName": "Assassins Creed 2 (UK).iso",
+        "FileName": "Assassins Creed 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2410,7 +2629,8 @@
     },
     {
         "GameID": "XBX-90DF8E06",
-        "FileName": "Assassins Creed 2 (WR).iso",
+        "FileName": "Assassins Creed 2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2421,7 +2641,8 @@
     },
     {
         "GameID": "XBX-031AA8C3",
-        "FileName": "Assassins Creed 2 - Game of the Year Edition (EU) (It,Pl,Ru).iso",
+        "FileName": "Assassins Creed 2 - Game of the Year Edition",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 - Game of the Year Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2432,7 +2653,8 @@
     },
     {
         "GameID": "XBX-BC22179E",
-        "FileName": "Assassins Creed 2 - Game of the Year Edition (EU).iso",
+        "FileName": "Assassins Creed 2 - Game of the Year Edition",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 - Game of the Year Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2443,7 +2665,8 @@
     },
     {
         "GameID": "XBX-7EECC872",
-        "FileName": "Assassins Creed 2 - Special Edition (JP).iso",
+        "FileName": "Assassins Creed 2 - Special Edition",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 2 - Special Edition is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2454,7 +2677,8 @@
     },
     {
         "GameID": "XBX-8C3C5FBD",
-        "FileName": "Assassins Creed 3 (EU) (Rev-1) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2465,7 +2689,8 @@
     },
     {
         "GameID": "XBX-E16A9D5F",
-        "FileName": "Assassins Creed 3 (EU) (Rev-1) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2476,7 +2701,8 @@
     },
     {
         "GameID": "XBX-3F1345B6",
-        "FileName": "Assassins Creed 3 (EU) - Disc-1.iso",
+        "FileName": "Assassins Creed 3 - Disc-1",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
@@ -2487,7 +2713,8 @@
     },
     {
         "GameID": "XBX-B8F10D74",
-        "FileName": "Assassins Creed 3 (EU) - Disc-2.iso",
+        "FileName": "Assassins Creed 3 - Disc-2",
+        "Extension": "ISO",
         "Platform": "Microsoft Xbox 360",
         "Genre": "General",
         "Description": "Assassins Creed 3 is a classic title for the Microsoft Xbox 360. Experience the original gameplay and features that made this game a notable entry in its library.",
